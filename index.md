@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## SLTR - a Dependency Tool for Golang
 
-You can use the [editor on GitHub](https://github.com/databeast/sltr/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Except, it isn't because no such tool exists. You've likely found this page because you've seen the tool mentioned in a GOlang job description you were sent. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The truth of the matter is that the technical requirements for that job posting have been copy-and-pasted for years now, by lazy recruiters and employers who haven't done the time to do their research, and just lazily copied the first google hits they found. 
 
-### Markdown
+It's not a gap in your GO knowledge, Sltr doesn't exist, has never existed. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/databeast/sltr/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
